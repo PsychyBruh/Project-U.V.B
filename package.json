@@ -6,9 +6,9 @@
     "flowbite": "^1.4.5",
     "node-static": "^0.7.11"
   },
-  "name": "lucid",
-  "version": "1.0.0",
-  "description": "lucid",
+  "name": "Project-U.V.B",
+  "version": "1.0.0-Public-Beta",
+  "description": "Project U.V.B",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
