@@ -48,9 +48,7 @@ $ git clone https://github.com/PsychyBruh/Project-U.V.B
 $ npm install
 $ node .
 
-DO NOT USE IT YET I HAVE NOT UPLOADED EVERYTHING!!!
 
-Also the Replit link does not work.
 ```
 
 | Configuration | Options and Explanation |
