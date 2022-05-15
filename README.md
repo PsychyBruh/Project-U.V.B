@@ -7,7 +7,7 @@
 
 ## Self Host
 
-[![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://github.com/PsychyBruh/Project-U.V.B)
+[![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/PsychyBruh/Project-U.V.B)
 
 ##  New Features!!!
 - CAPTCHA and hCAPTCHA support
