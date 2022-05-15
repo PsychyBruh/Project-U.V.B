@@ -11,7 +11,7 @@
 
 ##  New Features!!!
 - CAPTCHA and hCAPTCHA support
-- URL encoding settings to further hide activity when using Lucid
+- URL encoding settings to further hide activity when using Project U.V.B
 - Configuration all done on the client-side via service-workers
 - Speed in comparison to other web proxies that fully proxy content
 - Blacklist setting and more for easy hosting
