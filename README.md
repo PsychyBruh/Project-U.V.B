@@ -65,6 +65,6 @@ $ node .
 - Michael M (FakeStatic Code)
 
 # Credits
-- [https://github.com/titaniumnetwork-dev/](https://github.com/titaniumnetwork-dev/Ultraviolet)
-- https://github.com/PsychyBruh
+- [Titaninum Network](https://github.com/titaniumnetwork-dev/Ultraviolet)
+- [PsychyBruh](https://github.com/PsychyBruh)
 
