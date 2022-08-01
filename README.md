@@ -1,4 +1,4 @@
-<p align="center"><img src="https://cdn.discordapp.com/attachments/968592701006180392/970422495280758824/unknown.png" height="200">
+<p align="center"><img src="https://discordapp.com/channels/1002693372810633296/1002696502059221044/1003719251359698984" height="200">
 </p>
 
 <h1 align="center">Project U.V.B (Public Beta)</h1>
