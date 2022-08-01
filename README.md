@@ -53,7 +53,7 @@ $ node .
 
 | Configuration | Options and Explanation |
 | ------------- | ----------------------- |
-| Prefix | The prefix is the prefix that you want users to see. Ex: `https://projectuvb.psychy.repl.co/service/` The default prefix is `service`. |
+| Prefix | The prefix is the prefix that you want users to see. Ex: `https://projectuvb.psychy.repl.co/service/` The default prefix is `UVB`. |
 | Bare   | The bare server is the bare server that you want UV to use. Ex: `https://incog.dev/bare` The default bare is `/bare/`. |
 
 # Authors & Contributors
