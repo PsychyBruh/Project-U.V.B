@@ -58,11 +58,11 @@ $ node .
 
 # Authors & Contributors
 
-- Michael M (Owner/Founder of Project U.V.B)
+- Michael M (Psychy) (Owner/Founder of Project U.V.B)
 - Joshua M (Developer for Project U.V.B)
 - Mars (Developer for Project U.V.B)
 - Caracal.js (Creator of Ultraviolet)
-- Michael M (FakeStatic Code)
+- Michael M (Psychy) (FakeStatic Code)
 
 # Credits
 - [Titaninum Network](https://github.com/titaniumnetwork-dev/Ultraviolet)
