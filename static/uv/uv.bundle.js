@@ -16060,7 +16060,7 @@ function regroupTerms(terms, combinators) {
             terms,
             combinator,
             disallowEmpty: false,
-            explicit: false
+            explicit: true
         };
     }
 
@@ -16153,7 +16153,7 @@ function readImplicitGroup(tokenizer) {
         terms,
         combinator: regroupTerms(terms, combinators) || ' ',
         disallowEmpty: false,
-        explicit: false
+        explicit: true
     };
 }
 
